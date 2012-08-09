@@ -1,0 +1,6 @@
+<footer id="footer">
+    <p>
+        Copyright © {{global.year}} - {{global.author}} -
+        <span class="credit">Powered by <a href="https://github.com/shaoshuai0102/wanna">wanna</a></span>
+    </p>
+</footer>

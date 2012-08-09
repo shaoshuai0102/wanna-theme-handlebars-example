@@ -1,5 +1,13 @@
-{{> head}}
-
-content
-
-{{> foot}}
+<html>
+    {{> head}}
+    <body>
+        {{> header}}
+        <section id="container">
+            <section id="content">
+                {{content}}
+            </section>
+            {{> footer}}
+        </section>
+        {{> sidebar}}
+    </body>
+</html>

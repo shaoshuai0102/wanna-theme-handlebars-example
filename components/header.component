@@ -1,0 +1,4 @@
+<header id="header">
+    <h1 class="title"><a href="{{__dir__}}/index.html">{{global.title}}</a></h1>
+    <span class="subtitle">{{global.subtitle}}</span>
+</header>
